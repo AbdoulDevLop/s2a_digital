@@ -354,7 +354,7 @@ footer
     }
     header
     {
-        margin-right: -30px;
+        margin-right: 0;
     }
     .face
     {
@@ -531,8 +531,8 @@ footer
     }
     footer
     {
-    margin-left: -24px;
-    margin-right: -54px;
+    margin-left: 0;
+    margin-right: 0;
     color: white;
     background-color:royalblue;
     }
