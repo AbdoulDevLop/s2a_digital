@@ -529,6 +529,14 @@ footer
         font-weight: bold;
         font-size: small;
     }
+    footer
+    {
+    margin-left: -24px;
+    margin-right: -34px;
+    color: white;
+    background-color:royalblue;
+    }
+    
 }
 
 
