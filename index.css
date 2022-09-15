@@ -352,6 +352,10 @@ footer
     {
         width: auto;
     }
+    header
+    {
+        margin-right: 0px;
+    }
     .face
     {
         display: flex;
